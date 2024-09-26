@@ -4,11 +4,11 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        DayOne.Solution();
+        //DayOne.Solution();
         //DayTwo.Solution();
         //DayThree.Solution();
         //DayFour.Solution();
-        //DayFive.Solution();
+        DayFive.Solution();
         //DaySix.Solution();
         //DaySeven.Solution();
         //DayEight.Solution();

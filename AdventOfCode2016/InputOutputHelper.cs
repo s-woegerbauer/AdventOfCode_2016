@@ -5,9 +5,9 @@ public static class InputOutputHelper
     public static string[] GetInput(bool isTest, string day /*e.g.: "09"*/)
     {
         if (isTest)
-            return File.ReadAllLines(Directory.GetCurrentDirectory().Replace("\\bin\\Debug\\net6.0", "") + "\\" + day +
+            return File.ReadAllLines(Directory.GetCurrentDirectory().Replace("\\bin\\Debug\\net8.0", "") + "\\" + day +
                                      "\\testInput.txt");
-        return File.ReadAllLines(Directory.GetCurrentDirectory().Replace("\\bin\\Debug\\net6.0", "") + "\\" + day +
+        return File.ReadAllLines(Directory.GetCurrentDirectory().Replace("\\bin\\Debug\\net8.0", "") + "\\" + day +
                                  "\\input.txt");
     }
 

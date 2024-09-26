@@ -1,0 +1,15 @@
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\bin\Debug\net8.0\AdventOfCode2016.exe
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\bin\Debug\net8.0\AdventOfCode2016.deps.json
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\bin\Debug\net8.0\AdventOfCode2016.runtimeconfig.json
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\bin\Debug\net8.0\AdventOfCode2016.dll
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\bin\Debug\net8.0\AdventOfCode2016.pdb
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\obj\Debug\net8.0\AdventOfCode2016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\obj\Debug\net8.0\AdventOfCode2016.AssemblyInfoInputs.cache
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\obj\Debug\net8.0\AdventOfCode2016.AssemblyInfo.cs
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\obj\Debug\net8.0\AdventOfCode2016.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\obj\Debug\net8.0\AdventOfCode2016.sourcelink.json
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\obj\Debug\net8.0\AdventOfCode2016.dll
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\obj\Debug\net8.0\refint\AdventOfCode2016.dll
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\obj\Debug\net8.0\AdventOfCode2016.pdb
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\obj\Debug\net8.0\AdventOfCode2016.genruntimeconfig.cache
+C:\Users\Simon\Documents\GitHub\AdventOfCode_2016\AdventOfCode2016\obj\Debug\net8.0\ref\AdventOfCode2016.dll
